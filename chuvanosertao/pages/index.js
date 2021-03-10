@@ -1,4 +1,3 @@
-import Movies from "./movies"
 import Link from "next/link" 
 export default function Principal(){
   return(
